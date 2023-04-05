@@ -21,10 +21,10 @@ This application was developed using MySQL database. The application has a simpl
 <img src="https://raw.githubusercontent.com/atak-05/todo-with-mysql/main/img/up_1.png" width ="300">
 
 > 3.step
-<img src="https://raw.githubusercontent.com/atak-05/todo-with-mysql/main/img/add_1.png" width ="200">
+<img src="https://raw.githubusercontent.com/atak-05/todo-with-mysql/main/img/add_1.png" width ="300">
 
 > 4.step
-<img src=https://raw.githubusercontent.com/atak-05/todo-with-mysql/main/img/del_1.png width ="200">
+<img src=https://raw.githubusercontent.com/atak-05/todo-with-mysql/main/img/del_1.png width ="300">
 
  
 
