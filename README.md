@@ -7,10 +7,28 @@ It is a To-Do application with a based structure. Users in this application; can
 This application was developed using MySQL database. The application has a simple interface and offers users an easy to learn.
 
 # Folder Structure
-src:
-App.java
-Conn.java
-Todo.java
+- src:
+<li>App.java
+<li>Conn.java
+<li>Todo.java
+- img:
+
+> 1.step
+<img src="https://raw.githubusercontent.com/atak-05/todo-with-mysql/main/img/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-04-05%20163004.png" width="300">
+
+
+> 2.step
+<img src="https://raw.githubusercontent.com/atak-05/todo-with-mysql/main/img/up_1.png" width ="300">
+
+> 3.step
+<img src="https://raw.githubusercontent.com/atak-05/todo-with-mysql/main/img/add_1.png" width ="500">
+
+> 4.step
+<img src=https://raw.githubusercontent.com/atak-05/todo-with-mysql/main/img/del_1.png width ="500">
+
+ 
+
+ 
 
 # Use
 ##  Follow the steps below to run the application:
@@ -40,3 +58,12 @@ After the application starts, you can start using the To-Do application.
 <li>Contributing
 <li>Your Pull Requests are always welcome.
 </ul>
+ 
+ 
+ # Referenced Libraries :
+It has mysql-connector.jar 
+
+
+Refenceses :
+[I learned this Youtube Channel](https://www.youtube.com/watch?v=kQxsaQgL4B8) </br>
+[Mysql connector java jar for dowload](https://dev.mysql.com/downloads/connector/j/)
