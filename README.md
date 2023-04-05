@@ -2,17 +2,41 @@
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+It is a To-Do application with a based structure. Users in this application; can add tasks to do, view, update and delete existing tasks.
 
-The workspace contains two folders by default, where:
+This application was developed using MySQL database. The application has a simple interface and offers users an easy to learn.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+# Folder Structure
+src:
+App.java
+Conn.java
+Todo.java
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+# Use
+##  Follow the steps below to run the application:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+1.Create a database named tododb in your MySQL database.
 
-## Dependency Management
+2.Open src/main/resources/application.properties and set your MySQL connection settings as in the example file in this file:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+`spring.datasource.url=jdbc:mysql://localhost:3306/tododb?useSSL=false`
+
+ `spring.datasource.username=root`
+ 
+ `spring.datasource.password=password`
+
+Note: Change your username and password.
+
+Launch the application.
+
+After the application starts, you can start using the To-Do application.
+
+# Functions
+## Functions available in the app:
+<ul>
+<li>You can add a new task.
+<li>You can list, update and delete existing tasks.
+<li>You can mark tasks as completed.
+<li>Contributing
+<li>Your Pull Requests are always welcome.
+</ul>
