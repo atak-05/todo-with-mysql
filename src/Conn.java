@@ -4,7 +4,7 @@ public class Conn {
     private final String url = "jdbc:mysql://localhost/tododb?serverTimezone=UTC";
     // Database user and password
     final String username  = "root";
-    final String password ="9cn5hrxahv";
+    final String password ="";
 
     public String getJdbcDriver() {
         return jdbcDriver;
