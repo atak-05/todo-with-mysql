@@ -21,10 +21,10 @@ This application was developed using MySQL database. The application has a simpl
 <img src="https://raw.githubusercontent.com/atak-05/todo-with-mysql/main/img/up_1.png" width ="300">
 
 > 3.step
-<img src="https://raw.githubusercontent.com/atak-05/todo-with-mysql/main/img/add_1.png" width ="300">
+<img src="https://raw.githubusercontent.com/atak-05/todo-with-mysql/main/img/add_1.png" width ="200">
 
 > 4.step
-<img src=https://raw.githubusercontent.com/atak-05/todo-with-mysql/main/img/del_1.png width ="300">
+<img src=https://raw.githubusercontent.com/atak-05/todo-with-mysql/main/img/del_1.png width ="200">
 
  
 
@@ -65,5 +65,5 @@ It has mysql-connector.jar
 
 
 Refenceses :
-[I learned this Youtube Channel](https://www.youtube.com/watch?v=kQxsaQgL4B8) </br>
+[I learned this Youtube Channel](https://www.youtube.com/watch?v=-R9XwELXfzI&list=PL6BigWlyDofsTmUfRY0IxhAd5taQMc5Th&index=26) </br>
 [Mysql connector java jar for dowload](https://dev.mysql.com/downloads/connector/j/)
